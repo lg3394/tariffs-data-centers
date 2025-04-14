@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<svg id="Layer_2" data-name="Layer 2" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 536.55 396.8">
+<svg id="Layer_2" data-name="Layer 2" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 556.55 413.42">
   <defs>
     <style>
       .cls-1, .cls-2, .cls-3 {
@@ -15,31 +15,23 @@
       }
 
       .cls-5 {
-        font-size: 8.04px;
-      }
-
-      .cls-5, .cls-6, .cls-7, .cls-8, .cls-9, .cls-10, .cls-11 {
-        isolation: isolate;
-      }
-
-      .cls-5, .cls-6, .cls-9, .cls-10, .cls-11 {
-        font-family: ArialMT, Arial;
-      }
-
-      .cls-5, .cls-10 {
-        fill: #181818;
-      }
-
-      .cls-12 {
         fill: #ff856c;
       }
 
       .cls-6 {
-        font-size: 10.38px;
+        font-size: 8.38px;
       }
 
-      .cls-6, .cls-9 {
-        fill: #888;
+      .cls-6, .cls-7, .cls-8, .cls-9, .cls-10, .cls-11, .cls-12 {
+        isolation: isolate;
+      }
+
+      .cls-6, .cls-8, .cls-9, .cls-10, .cls-11 {
+        font-family: ArialMT, Arial;
+      }
+
+      .cls-6, .cls-10 {
+        fill: #181818;
       }
 
       .cls-13 {
@@ -50,14 +42,20 @@
         fill: #ee493a;
       }
 
-      .cls-7 {
-        font-family: Arial-BoldMT, Arial;
-        font-size: 17.69px;
-        font-weight: 700;
+      .cls-8 {
+        font-size: 7.47px;
+      }
+
+      .cls-8, .cls-11 {
+        fill: #888;
       }
 
       .cls-9 {
-        font-size: 7.17px;
+        fill: #a2a2a2;
+      }
+
+      .cls-9, .cls-10 {
+        font-size: 10.05px;
       }
 
       .cls-15 {
@@ -68,25 +66,21 @@
         fill: #bd1117;
       }
 
-      .cls-17 {
-        letter-spacing: 0em;
-      }
-
-      .cls-10, .cls-11 {
-        font-size: 9.65px;
-      }
-
       .cls-3 {
         stroke: #181818;
         stroke-linecap: square;
       }
 
-      .cls-18 {
+      .cls-17 {
         letter-spacing: -.07em;
       }
 
-      .cls-19 {
+      .cls-18 {
         fill: #d73129;
+      }
+
+      .cls-19 {
+        letter-spacing: -.11em;
       }
 
       .cls-20 {
@@ -98,7 +92,7 @@
       }
 
       .cls-22 {
-        letter-spacing: -.11em;
+        letter-spacing: -.02em;
       }
 
       .cls-23 {
@@ -106,33 +100,35 @@
       }
 
       .cls-24 {
-        letter-spacing: -.02em;
-      }
-
-      .cls-25 {
         letter-spacing: -.04em;
       }
 
-      .cls-26 {
+      .cls-11 {
+        font-size: 10.81px;
+      }
+
+      .cls-25 {
         clip-path: url(#clippath);
       }
 
-      .cls-11 {
-        fill: #a2a2a2;
+      .cls-12 {
+        font-family: Arial-BoldMT, Arial;
+        font-size: 18.43px;
+        font-weight: 700;
       }
     </style>
     <clipPath id="clippath">
-      <rect class="cls-1" x="0" y="34.63" width="536.55" height="305.57"/>
+      <rect class="cls-1" x="0" y="36.08" width="556.55" height="318.36"/>
     </clipPath>
   </defs>
   <g id="ai2html-settings">
     <g id="_svelte-dw-svg" data-name="  svelte-dw-svg">
       <g id="container-svg_container-body-svg_datawrapper-dFiok-1gvfeww-svg" data-name="container-svg container-body-svg datawrapper-dFiok-1gvfeww-svg">
         <g id="container-svg_container-footer-svg_datawrapper-dFiok-1la8dcw-svg" data-name="container-svg container-footer-svg datawrapper-dFiok-1la8dcw-svg">
-          <g class="cls-8">
-            <text class="cls-9" transform="translate(28.98 283.5) scale(.95 1)"><tspan x="0" y="0">Chart:</tspan></text>
-            <text class="cls-9" transform="translate(49.22 283.5) scale(.95 1)"><tspan x="0" y="0">Lucia de la</tspan><tspan class="cls-23" x="34.68" y="0"> </tspan><tspan class="cls-20" x="36.54" y="0">T</tspan><tspan x="40.13" y="0">orre</tspan></text>
-            <text class="cls-9" transform="translate(101.13 283.5) scale(.95 1)"><tspan x="0" y="0">•</tspan></text>
+          <g class="cls-7">
+            <text class="cls-8" transform="translate(20.06 289.38) scale(.95 1)"><tspan x="0" y="0">Chart:</tspan></text>
+            <text class="cls-8" transform="translate(41.05 289.38) scale(.95 1)"><tspan x="0" y="0">Lucia de la</tspan><tspan class="cls-22" x="36.13" y="0"> </tspan><tspan class="cls-21" x="38.07" y="0">T</tspan><tspan x="41.81" y="0">orre</tspan></text>
+            <text class="cls-8" transform="translate(94.9 289.38) scale(.95 1)"><tspan x="0" y="0">•</tspan></text>
           </g>
         </g>
       </g>
@@ -142,107 +138,107 @@
         <g id="container-svg_container-bodyTop-svg_datawrapper-PNU1C-lmtz6e-svg" data-name="container-svg container-bodyTop-svg datawrapper-PNU1C-lmtz6e-svg">
           <g id="container-svg_container-bodyCenter-svg_datawrapper-PNU1C-1fgvipr-svg" data-name="container-svg container-bodyCenter-svg datawrapper-PNU1C-1fgvipr-svg">
             <g id="container-svg_container-header-svg_datawrapper-PNU1C-xp3kt5-svg" data-name="container-svg container-header-svg datawrapper-PNU1C-xp3kt5-svg">
-              <g class="cls-8">
-                <text class="cls-7" transform="translate(0 15.18) scale(.95 1)"><tspan x="0" y="0">How much Big </tspan><tspan class="cls-18" x="127.76" y="0">T</tspan><tspan x="137.26" y="0">ech plans to spend in</tspan><tspan class="cls-25" x="318.12" y="0"> </tspan><tspan class="cls-17" x="322.38" y="0">AI infrastructure in the U.S.</tspan><tspan x="0" y="21.23">in 2025 ($BN)</tspan></text>
+              <g class="cls-7">
+                <text class="cls-12" transform="translate(0 15.81) scale(.95 1)"><tspan x="0" y="0">How much Big </tspan><tspan class="cls-17" x="133.12" y="0">T</tspan><tspan class="cls-15" x="143.01" y="0">ech plans to spend in</tspan><tspan class="cls-24" x="331.44" y="0"> </tspan><tspan x="335.88" y="0">AI infrastructure in the U.S.</tspan><tspan x="0" y="22.12">in 2025 ($BN)</tspan></text>
               </g>
             </g>
             <g id="chart-svg">
-              <g class="cls-26">
+              <g class="cls-25">
                 <g id="svg-main-svg">
                   <g id="container-svg">
                     <g id="grid-svg_below-svg" data-name="grid-svg below-svg">
                       <g id="y-grid-lines-svg_grid-y-svg_datawrapper-PNU1C-1fn7900-svg" data-name="y-grid-lines-svg grid-y-svg datawrapper-PNU1C-1fn7900-svg">
-                        <line class="cls-2" x1="20.29" y1="252.55" x2="536.55" y2="252.55"/>
-                        <line class="cls-2" x1="20.29" y1="213.95" x2="536.55" y2="213.95"/>
-                        <line class="cls-2" x1="20.29" y1="175.35" x2="536.55" y2="175.35"/>
-                        <line class="cls-2" x1="20.29" y1="136.75" x2="536.55" y2="136.75"/>
-                        <line class="cls-2" x1="20.29" y1="98.16" x2="536.55" y2="98.16"/>
-                        <line class="cls-2" x1="20.29" y1="59.56" x2="536.55" y2="59.56"/>
+                        <line class="cls-2" x1="21.05" y1="263.12" x2="556.55" y2="263.12"/>
+                        <line class="cls-2" x1="21.05" y1="222.91" x2="556.55" y2="222.91"/>
+                        <line class="cls-2" x1="21.05" y1="182.69" x2="556.55" y2="182.69"/>
+                        <line class="cls-2" x1="21.05" y1="142.48" x2="556.55" y2="142.48"/>
+                        <line class="cls-2" x1="21.05" y1="102.27" x2="556.55" y2="102.27"/>
+                        <line class="cls-2" x1="21.05" y1="62.05" x2="556.55" y2="62.05"/>
                       </g>
                     </g>
                     <g id="columns-svg">
                       <g id="Apple-0-svg">
-                        <rect class="cls-16" x="28.9" y="49.91" width="68.83" height="241.24"/>
+                        <rect class="cls-16" x="29.98" y="52" width="71.4" height="251.34"/>
                       </g>
                       <g id="Amazon-1-svg">
-                        <rect class="cls-19" x="114.94" y="98.16" width="68.83" height="192.99"/>
+                        <rect class="cls-18" x="119.23" y="102.27" width="71.4" height="201.07"/>
                       </g>
                       <g id="Taiwan-svg_Semiconductor-svg_Manufacturing-svg_Co.-svg_TSMC_-5-svg" data-name="Taiwan-svg Semiconductor-svg Manufacturing-svg Co.-svg (TSMC)-5-svg">
-                        <rect class="cls-14" x="200.98" y="98.16" width="68.83" height="192.99"/>
+                        <rect class="cls-14" x="208.48" y="102.27" width="71.4" height="201.07"/>
                       </g>
                       <g id="Microsoft-4-svg">
-                        <rect class="cls-13" x="287.03" y="136.75" width="68.83" height="154.39"/>
+                        <rect class="cls-13" x="297.73" y="142.48" width="71.4" height="160.86"/>
                       </g>
                       <g id="Alphabet-svg_Google_-2-svg" data-name="Alphabet-svg (Google)-2-svg">
-                        <rect class="cls-4" x="373.07" y="146.4" width="68.83" height="144.74"/>
+                        <rect class="cls-4" x="386.98" y="152.53" width="71.4" height="150.8"/>
                       </g>
                       <g id="Meta-3-svg">
-                        <rect class="cls-12" x="459.11" y="165.7" width="68.83" height="125.44"/>
+                        <rect class="cls-5" x="476.23" y="172.64" width="71.4" height="130.7"/>
                       </g>
                     </g>
                     <g id="grid-svg_above-svg" data-name="grid-svg above-svg">
                       <g id="y-tick-labels-svg_grid-y-svg_number-axis-svg_datawrapper-PNU1C-1p0pqj9-svg" data-name="y-tick-labels-svg grid-y-svg number-axis-svg datawrapper-PNU1C-1p0pqj9-svg">
-                        <g class="cls-8">
-                          <text class="cls-11" transform="translate(6.23 255.76) scale(.95 1)"><tspan x="0" y="0">20</tspan></text>
+                        <g class="cls-7">
+                          <text class="cls-9" transform="translate(6.46 266.47) scale(.95 1)"><tspan x="0" y="0">20</tspan></text>
                         </g>
-                        <g class="cls-8">
-                          <text class="cls-11" transform="translate(6.23 217.17) scale(.95 1)"><tspan x="0" y="0">40</tspan></text>
+                        <g class="cls-7">
+                          <text class="cls-9" transform="translate(6.46 226.26) scale(.95 1)"><tspan x="0" y="0">40</tspan></text>
                         </g>
-                        <g class="cls-8">
-                          <text class="cls-11" transform="translate(6.23 178.57) scale(.95 1)"><tspan x="0" y="0">60</tspan></text>
+                        <g class="cls-7">
+                          <text class="cls-9" transform="translate(6.46 186.05) scale(.95 1)"><tspan x="0" y="0">60</tspan></text>
                         </g>
-                        <g class="cls-8">
-                          <text class="cls-11" transform="translate(6.23 139.97) scale(.95 1)"><tspan x="0" y="0">80</tspan></text>
+                        <g class="cls-7">
+                          <text class="cls-9" transform="translate(6.46 145.83) scale(.95 1)"><tspan x="0" y="0">80</tspan></text>
                         </g>
-                        <g class="cls-8">
-                          <text class="cls-11" transform="translate(1.12 101.37) scale(.95 1)"><tspan x="0" y="0">100</tspan></text>
+                        <g class="cls-7">
+                          <text class="cls-9" transform="translate(1.16 105.62) scale(.95 1)"><tspan x="0" y="0">100</tspan></text>
                         </g>
-                        <g class="cls-8">
-                          <text class="cls-11" transform="translate(1.12 62.77) scale(.95 1)"><tspan x="0" y="0">120</tspan></text>
+                        <g class="cls-7">
+                          <text class="cls-9" transform="translate(1.16 65.4) scale(.95 1)"><tspan x="0" y="0">120</tspan></text>
                         </g>
                       </g>
                       <g id="y-base-lines-svg_grid-y-svg_datawrapper-PNU1C-1io9s9d-svg" data-name="y-base-lines-svg grid-y-svg datawrapper-PNU1C-1io9s9d-svg">
-                        <line class="cls-3" x1="536.55" y1="291.14" x2="20.29" y2="291.14"/>
+                        <line class="cls-3" x1="556.55" y1="303.34" x2="21.05" y2="303.34"/>
                       </g>
                     </g>
                   </g>
                 </g>
               </g>
-              <g class="cls-8">
-                <text class="cls-10" transform="translate(51.55 304.81) scale(.95 1)"><tspan x="0" y="0">Apple</tspan></text>
+              <g class="cls-7">
+                <text class="cls-10" transform="translate(53.47 317.58) scale(.95 1)"><tspan x="0" y="0">Apple</tspan></text>
               </g>
-              <g class="cls-8">
-                <text class="cls-10" transform="translate(132.47 304.81) scale(.95 1)"><tspan x="0" y="0">Amazon</tspan></text>
+              <g class="cls-7">
+                <text class="cls-10" transform="translate(137.41 317.58) scale(.95 1)"><tspan x="0" y="0">Amazon</tspan></text>
               </g>
-              <g class="cls-8">
-                <text class="cls-10" transform="translate(221.08 304.81) scale(.95 1)"><tspan class="cls-21" x="0" y="0">T</tspan><tspan class="cls-15" x="4.82" y="0">aiwan</tspan></text>
-                <text class="cls-10" transform="translate(204.72 316.07) scale(.95 1)"><tspan x="0" y="0">Semiconductor</tspan></text>
+              <g class="cls-7">
+                <text class="cls-10" transform="translate(229.32 317.58) scale(.95 1)"><tspan class="cls-20" x="0" y="0">T</tspan><tspan x="5.03" y="0">aiwan</tspan></text>
+                <text class="cls-10" transform="translate(212.35 329.31) scale(.95 1)"><tspan x="0" y="0">Semiconductor</tspan></text>
               </g>
-              <g class="cls-8">
-                <text class="cls-10" transform="translate(302.78 304.81) scale(.95 1)"><tspan x="0" y="0">Microsoft</tspan></text>
+              <g class="cls-7">
+                <text class="cls-10" transform="translate(314.07 317.58) scale(.95 1)"><tspan x="0" y="0">Microsoft</tspan></text>
               </g>
-              <g class="cls-8">
-                <text class="cls-10" transform="translate(370.15 304.81) scale(.95 1)"><tspan x="0" y="0">Alphabet (Google)</tspan></text>
+              <g class="cls-7">
+                <text class="cls-10" transform="translate(383.94 317.58) scale(.95 1)"><tspan x="0" y="0">Alphabet (Google)</tspan></text>
               </g>
-              <g class="cls-8">
-                <text class="cls-10" transform="translate(483.29 304.81) scale(.95 1)"><tspan x="0" y="0">Meta</tspan></text>
+              <g class="cls-7">
+                <text class="cls-10" transform="translate(501.31 317.58) scale(.95 1)"><tspan x="0" y="0">Meta</tspan></text>
               </g>
-              <g class="cls-8">
-                <text class="cls-5" transform="translate(101.54 53.93) scale(.95 1)"><tspan x="0" y="0">*Apple pledged a $500bn Investment over 4 years</tspan></text>
+              <g class="cls-7">
+                <text class="cls-6" transform="translate(105.32 56.19) scale(.95 1)"><tspan x="0" y="0">*Apple pledged a $500bn Investment over 4 years</tspan></text>
               </g>
             </g>
           </g>
         </g>
         <g id="container-svg_container-footer-svg_datawrapper-PNU1C-1la8dcw-svg" data-name="container-svg container-footer-svg datawrapper-PNU1C-1la8dcw-svg">
-          <g class="cls-8">
-            <text class="cls-6" transform="translate(16.21 340.1) scale(1.01 1)"><tspan x="0" y="0">Chart:</tspan></text>
-            <text class="cls-6" transform="translate(47.39 340.1) scale(1.01 1)"><tspan x="0" y="0">Lucia de la</tspan><tspan class="cls-24" x="50.21" y="0"> </tspan><tspan class="cls-22" x="52.9" y="0">T</tspan><tspan x="58.09" y="0">orre</tspan></text>
-            <text class="cls-6" transform="translate(127.37 340.1) scale(1.01 1)"><tspan x="0" y="0">•</tspan></text>
-            <text class="cls-6" transform="translate(133.65 340.1) scale(1.01 1)"><tspan x="0" y="0">Source:</tspan></text>
-            <text class="cls-6" transform="translate(172.42 340.1) scale(1.01 1)"><tspan x="0" y="0">Data Center Frontier</tspan></text>
-            <text class="cls-6" transform="translate(270.65 340.1) scale(1.01 1)"><tspan x="0" y="0">•</tspan></text>
-            <text class="cls-6" transform="translate(276.93 340.1) scale(1.01 1)"><tspan x="0" y="0">Created with</tspan></text>
-            <text class="cls-6" transform="translate(338.43 340.1) scale(1.01 1)"><tspan x="0" y="0">Datawrapper</tspan></text>
+          <g class="cls-7">
+            <text class="cls-11" transform="translate(16.82 354.35)"><tspan x="0" y="0">Chart:</tspan></text>
+            <text class="cls-11" transform="translate(49.16 354.35)"><tspan x="0" y="0">Lucia de la</tspan><tspan class="cls-23" x="52.31" y="0"> </tspan><tspan class="cls-19" x="55.12" y="0">T</tspan><tspan x="60.53" y="0">orre</tspan></text>
+            <text class="cls-11" transform="translate(132.12 354.35)"><tspan x="0" y="0">•</tspan></text>
+            <text class="cls-11" transform="translate(138.64 354.35)"><tspan x="0" y="0">Source:</tspan></text>
+            <text class="cls-11" transform="translate(178.84 354.35)"><tspan x="0" y="0">Data Center Frontier</tspan></text>
+            <text class="cls-11" transform="translate(280.74 354.35)"><tspan x="0" y="0">•</tspan></text>
+            <text class="cls-11" transform="translate(287.26 354.35)"><tspan x="0" y="0">Created with</tspan></text>
+            <text class="cls-11" transform="translate(351.05 354.35)"><tspan x="0" y="0">Datawrapper</tspan></text>
           </g>
         </g>
       </g>
