@@ -1,0 +1,237 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_2" data-name="Layer 2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 532.94 363">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: none;
+      }
+
+      .cls-2 {
+        fill: #fff;
+      }
+
+      .cls-2, .cls-3, .cls-4, .cls-5, .cls-6, .cls-7 {
+        isolation: isolate;
+      }
+
+      .cls-2, .cls-4, .cls-6, .cls-7 {
+        font-family: ArialMT, Arial;
+      }
+
+      .cls-2, .cls-6 {
+        font-size: 6.63px;
+      }
+
+      .cls-4 {
+        font-size: 7.74px;
+      }
+
+      .cls-4, .cls-6 {
+        fill: #181818;
+      }
+
+      .cls-5 {
+        font-family: Arial-BoldMT, Arial;
+        font-size: 14.93px;
+        font-weight: 700;
+      }
+
+      .cls-7 {
+        fill: #888;
+        font-size: 6.08px;
+      }
+
+      .cls-8 {
+        letter-spacing: -.11em;
+      }
+
+      .cls-9 {
+        letter-spacing: -.02em;
+      }
+
+      .cls-10 {
+        letter-spacing: -.02em;
+      }
+
+      .cls-11 {
+        fill: #c71e1d;
+      }
+
+      .cls-12 {
+        fill: #fa6a47;
+      }
+    </style>
+  </defs>
+  <g id="ai2html-settings">
+    <g>
+      <rect class="cls-1" x="131.93" y="134.27" width="401.01" height="228.73"/>
+      <g id="_svelte-dw-svg" data-name="  svelte-dw-svg">
+        <g id="container-svg_container-body-svg_datawrapper-T2CdC-1gvfeww-svg" data-name="container-svg container-body-svg datawrapper-T2CdC-1gvfeww-svg">
+          <g id="container-svg_container-bodyTop-svg_datawrapper-T2CdC-lmtz6e-svg" data-name="container-svg container-bodyTop-svg datawrapper-T2CdC-lmtz6e-svg">
+            <g id="container-svg_container-bodyCenter-svg_datawrapper-T2CdC-1fgvipr-svg" data-name="container-svg container-bodyCenter-svg datawrapper-T2CdC-1fgvipr-svg">
+              <g id="container-svg_container-header-svg_datawrapper-T2CdC-xp3kt5-svg" data-name="container-svg container-header-svg datawrapper-T2CdC-xp3kt5-svg">
+                <g class="cls-3">
+                  <text class="cls-5" transform="translate(0 12.8) scale(1.04 1)"><tspan x="0" y="0">Data centers per country as of March 2025</tspan></text>
+                </g>
+                <g class="cls-3">
+                  <text class="cls-4" transform="translate(0 28.84) scale(1.04 1)"><tspan x="0" y="0">The U.S. has more data centers than all other countries combined.</tspan></text>
+                </g>
+              </g>
+              <g id="chart-svg">
+                <g class="cls-3">
+                  <text class="cls-6" transform="translate(9.74 43.44) scale(1.04 1)"><tspan x="0" y="0">US</tspan></text>
+                </g>
+                <g class="cls-3">
+                  <text class="cls-6" transform="translate(.57 60.35) scale(1.04 1)"><tspan x="0" y="0">US</tspan></text>
+                </g>
+                <rect class="cls-11" x="47.31" y="52.17" width="295.84" height="11.06"/>
+                <g class="cls-3">
+                  <text class="cls-6" transform="translate(.57 73.62) scale(1.04 1)"><tspan x="0" y="0">Rest of </tspan><tspan class="cls-9" x="22.86" y="0">W</tspan><tspan x="29" y="0">orld</tspan></text>
+                </g>
+                <rect class="cls-12" x="47.31" y="65.44" width="213.57" height="11.06"/>
+                <g class="cls-3">
+                  <text class="cls-6" transform="translate(.57 86.89) scale(1.04 1)"><tspan x="0" y="0">Germany</tspan></text>
+                </g>
+                <rect class="cls-12" x="47.31" y="78.71" width="28.85" height="11.06"/>
+                <g class="cls-3">
+                  <text class="cls-6" transform="translate(.57 100.16) scale(1.04 1)"><tspan x="0" y="0">UK</tspan></text>
+                </g>
+                <rect class="cls-12" x="47.31" y="91.98" width="28.52" height="11.06"/>
+                <g class="cls-3">
+                  <text class="cls-6" transform="translate(.57 113.42) scale(1.04 1)"><tspan x="0" y="0">China</tspan></text>
+                </g>
+                <rect class="cls-12" x="47.31" y="105.24" width="24.48" height="11.06"/>
+                <g class="cls-3">
+                  <text class="cls-6" transform="translate(.57 126.69) scale(1.04 1)"><tspan x="0" y="0">France</tspan></text>
+                </g>
+                <rect class="cls-12" x="47.31" y="118.51" width="17.56" height="11.06"/>
+                <g class="cls-3">
+                  <text class="cls-6" transform="translate(.57 139.96) scale(1.04 1)"><tspan x="0" y="0">Australia</tspan></text>
+                </g>
+                <rect class="cls-12" x="47.31" y="131.78" width="17.12" height="11.06"/>
+                <g class="cls-3">
+                  <text class="cls-6" transform="translate(.57 153.23) scale(1.04 1)"><tspan x="0" y="0">Netherlands</tspan></text>
+                </g>
+                <rect class="cls-12" x="47.31" y="145.04" width="16.26" height="11.06"/>
+                <g class="cls-3">
+                  <text class="cls-6" transform="translate(.57 166.49) scale(1.04 1)"><tspan x="0" y="0">Russia</tspan></text>
+                </g>
+                <rect class="cls-12" x="47.31" y="158.31" width="13.69" height="11.06"/>
+                <g class="cls-3">
+                  <text class="cls-6" transform="translate(.57 179.76) scale(1.04 1)"><tspan x="0" y="0">Japan</tspan></text>
+                </g>
+                <rect class="cls-12" x="47.31" y="171.58" width="12.11" height="11.06"/>
+                <g class="cls-3">
+                  <text class="cls-6" transform="translate(.57 193.03) scale(1.04 1)"><tspan x="0" y="0">Brazil</tspan></text>
+                </g>
+                <rect class="cls-12" x="47.31" y="184.85" width="10.69" height="11.06"/>
+                <g class="cls-3">
+                  <text class="cls-6" transform="translate(.57 206.29) scale(1.04 1)"><tspan x="0" y="0">Italy</tspan></text>
+                </g>
+                <rect class="cls-12" x="47.31" y="198.11" width="9.17" height="11.06"/>
+                <g class="cls-3">
+                  <text class="cls-6" transform="translate(.57 219.56) scale(1.04 1)"><tspan x="0" y="0">Spain</tspan></text>
+                </g>
+                <rect class="cls-12" x="47.31" y="211.38" width="7.81" height="11.06"/>
+                <g class="cls-3">
+                  <text class="cls-6" transform="translate(.57 232.83) scale(1.04 1)"><tspan x="0" y="0">Hong Kong</tspan></text>
+                </g>
+                <rect class="cls-12" x="47.31" y="224.65" width="6.66" height="11.06"/>
+                <g class="cls-3">
+                  <text class="cls-6" transform="translate(.57 246.1) scale(1.04 1)"><tspan x="0" y="0">Switzerland</tspan></text>
+                </g>
+                <rect class="cls-12" x="47.31" y="237.92" width="6.61" height="11.06"/>
+                <g class="cls-3">
+                  <text class="cls-6" transform="translate(.57 259.36) scale(1.04 1)"><tspan x="0" y="0">Singapore</tspan></text>
+                </g>
+                <rect class="cls-12" x="47.31" y="251.18" width="5.41" height="11.06"/>
+                <g class="cls-3">
+                  <text class="cls-6" transform="translate(.57 272.63) scale(1.04 1)"><tspan x="0" y="0">Malaysia</tspan></text>
+                </g>
+                <rect class="cls-12" x="47.31" y="264.45" width="3.38" height="11.06"/>
+                <g class="cls-3">
+                  <text class="cls-6" transform="translate(.57 285.9) scale(1.04 1)"><tspan x="0" y="0">Ireland</tspan></text>
+                </g>
+                <rect class="cls-12" x="47.31" y="277.72" width="3.01" height="11.06"/>
+                <g class="cls-3">
+                  <text class="cls-6" transform="translate(.57 299.17) scale(1.04 1)"><tspan x="0" y="0">South Korea</tspan></text>
+                </g>
+                <rect class="cls-12" x="47.31" y="290.98" width="2.35" height="11.06"/>
+                <g class="cls-3">
+                  <text class="cls-2" transform="translate(323.08 60.47) scale(1.04 1)"><tspan x="0" y="0">5,426</tspan></text>
+                </g>
+                <g class="cls-3">
+                  <text class="cls-2" transform="translate(240.81 73.73) scale(1.04 1)"><tspan x="0" y="0">3,917</tspan></text>
+                </g>
+                <g class="cls-3">
+                  <text class="cls-2" transform="translate(61.82 87) scale(1.04 1)"><tspan x="0" y="0">529</tspan></text>
+                </g>
+                <g class="cls-3">
+                  <text class="cls-2" transform="translate(61.49 100.27) scale(1.04 1)"><tspan x="0" y="0">523</tspan></text>
+                </g>
+                <g class="cls-3">
+                  <text class="cls-2" transform="translate(57.45 113.54) scale(1.04 1)"><tspan x="0" y="0">449</tspan></text>
+                </g>
+                <g class="cls-3">
+                  <text class="cls-2" transform="translate(50.54 126.8) scale(1.04 1)"><tspan x="0" y="0">322</tspan></text>
+                </g>
+                <g class="cls-3">
+                  <text class="cls-6" transform="translate(67.29 140.07) scale(1.04 1)"><tspan x="0" y="0">314</tspan></text>
+                </g>
+                <g class="cls-3">
+                  <text class="cls-6" transform="translate(66.43 153.34) scale(1.04 1)"><tspan x="0" y="0">298</tspan></text>
+                </g>
+                <g class="cls-3">
+                  <text class="cls-6" transform="translate(63.86 166.6) scale(1.04 1)"><tspan x="0" y="0">251</tspan></text>
+                </g>
+                <g class="cls-3">
+                  <text class="cls-6" transform="translate(62.28 179.87) scale(1.04 1)"><tspan x="0" y="0">222</tspan></text>
+                </g>
+                <g class="cls-3">
+                  <text class="cls-6" transform="translate(60.86 193.14) scale(1.04 1)"><tspan x="0" y="0">196</tspan></text>
+                </g>
+                <g class="cls-3">
+                  <text class="cls-6" transform="translate(59.34 206.41) scale(1.04 1)"><tspan x="0" y="0">168</tspan></text>
+                </g>
+                <g class="cls-3">
+                  <text class="cls-6" transform="translate(57.98 219.67) scale(1.04 1)"><tspan x="0" y="0">143</tspan></text>
+                </g>
+                <g class="cls-3">
+                  <text class="cls-6" transform="translate(56.83 232.94) scale(1.04 1)"><tspan x="0" y="0">122</tspan></text>
+                </g>
+                <g class="cls-3">
+                  <text class="cls-6" transform="translate(56.78 246.21) scale(1.04 1)"><tspan x="0" y="0">121</tspan></text>
+                </g>
+                <g class="cls-3">
+                  <text class="cls-6" transform="translate(55.58 259.48) scale(1.04 1)"><tspan x="0" y="0">99</tspan></text>
+                </g>
+                <g class="cls-3">
+                  <text class="cls-6" transform="translate(53.55 272.74) scale(1.04 1)"><tspan x="0" y="0">62</tspan></text>
+                </g>
+                <g class="cls-3">
+                  <text class="cls-6" transform="translate(53.18 286.01) scale(1.04 1)"><tspan x="0" y="0">55</tspan></text>
+                </g>
+                <g class="cls-3">
+                  <text class="cls-6" transform="translate(52.52 299.28) scale(1.04 1)"><tspan x="0" y="0">43</tspan></text>
+                </g>
+                <rect class="cls-11" y="37.03" width="8.02" height="7.74"/>
+              </g>
+            </g>
+          </g>
+          <g id="container-svg_container-footer-svg_datawrapper-T2CdC-1la8dcw-svg" data-name="container-svg container-footer-svg datawrapper-T2CdC-1la8dcw-svg">
+            <g class="cls-3">
+              <text class="cls-7" transform="translate(0 319.18) scale(1.04 1)"><tspan x="0" y="0">Chart:</tspan></text>
+              <text class="cls-7" transform="translate(18.73 319.18) scale(1.04 1)"><tspan x="0" y="0">Lucia de la</tspan><tspan class="cls-10" x="29.41" y="0"> </tspan><tspan class="cls-8" x="30.99" y="0">T</tspan><tspan x="34.03" y="0">orre</tspan></text>
+              <text class="cls-7" transform="translate(66.77 319.18) scale(1.04 1)"><tspan x="0" y="0">•</tspan></text>
+              <text class="cls-7" transform="translate(70.55 319.18) scale(1.04 1)"><tspan x="0" y="0">Source:</tspan></text>
+              <text class="cls-7" transform="translate(93.83 319.18) scale(1.04 1)"><tspan x="0" y="0">Statista/Cloudscene</tspan></text>
+              <text class="cls-7" transform="translate(151.45 319.18) scale(1.04 1)"><tspan x="0" y="0">•</tspan></text>
+              <text class="cls-7" transform="translate(155.22 319.18) scale(1.04 1)"><tspan x="0" y="0">Created with</tspan></text>
+              <text class="cls-7" transform="translate(192.16 319.18) scale(1.04 1)"><tspan x="0" y="0">Datawrapper</tspan></text>
+            </g>
+          </g>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>
