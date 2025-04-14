@@ -1,4 +1,161 @@
 <!DOCTYPE html>
-<html>
-</html>
+<html lang="en">
 
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>The Impact of Tariffs on Data Centers</title>
+
+    <!-- Google fonts -->
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Lora:ital,wght@0,400;0,700;1,400;1,700&display=swap" rel="stylesheet">
+
+    <style>
+        body {
+            margin: 0;
+            font-size: 20px;
+            font-family: Georgia, 'Times New Roman', Times, serif;
+            text-rendering: optimizeLegibility;
+        }
+
+        .content {
+            max-width: 640px;
+            margin: auto;
+            padding: 1em;
+        }
+
+        .header {
+            text-align: center;
+            padding: 3em 0;
+        }
+
+        h1 {
+            font-family: 'Lora', Georgia, serif;
+            font-weight: bold;
+            font-size: 2.5em;
+        }
+
+        .subhead {
+            font-family: 'Lora', Georgia, serif;
+            color: #666;
+            margin-bottom: 2em;
+        }
+
+        p {
+            line-height: 1.6;
+            margin-bottom: 1.5em;
+        }
+
+        figure {
+            margin-bottom: 2em;
+        }
+
+        figcaption {
+            font-size: 0.8em;
+            text-align: center;
+            color: #666;
+        }
+
+        img {
+            width: 100%;
+            height: auto;
+        }
+
+        .scrolly-section {
+            position: relative;
+        }
+
+        .scrolly-section img {
+            display: none; /* Default to hidden for responsive display */
+        }
+
+        /* Desktop visuals */
+        @media (min-width: 641px) {
+            .scrolly-section .desktop-visual {
+                display: block; /* Show desktop visuals */
+            }
+        }
+
+        /* Mobile visuals */
+        @media (max-width: 640px) {
+            .scrolly-section .mobile-visual {
+                display: block; /* Show mobile visuals */
+            }
+        }
+    </style>
+</head>
+
+<body>
+    <!-- Header Section -->
+    <div class="header">
+        <h1>The Impact of Tariffs on U.S. Data Centers</h1>
+        <p class="subhead">Exploring how tariffs and energy demand are reshaping the future of AI infrastructure.</p>
+    </div>
+
+    <!-- Scrollytelling Content -->
+    <div class="content">
+        
+        <!-- Section 1 -->
+        <section class="scrolly-section">
+            <p>The United States leads the world in data centers, with more than all other countries combined and ten times more than any other single country. This dominance is critical as AI-driven demand for data centers continues to grow.</p>
+            
+            <figure>
+                <!-- Desktop Image -->
+                <img src="datacenters_desktop.svg" alt="Data centers per country (desktop)" class="desktop-visual">
+                <!-- Mobile Image -->
+                <img src="datacenters_mobile.svg" alt="Data centers per country (mobile)" class="mobile-visual">
+                <figcaption>Data centers per country.</figcaption>
+            </figure>
+        </section>
+
+        <!-- Section 2 -->
+        <section class="scrolly-section">
+            <p>Energy demand from U.S. data centers is forecast to quadruple by 2030 due to the rapid adoption of AI technologies. This growth will require unprecedented electricity production.</p>
+            
+            <figure>
+                <!-- Placeholder for energy demand graph -->
+                <img src="energy_demand_desktop.svg" alt="Energy demand per country (desktop)" class="desktop-visual">
+                <img src="energy_demand_mobile.svg" alt="Energy demand per country (mobile)" class="mobile-visual">
+                <figcaption>Projected energy demand increase by country.</figcaption>
+            </figure>
+        </section>
+
+        <!-- Section 3 -->
+        <section class="scrolly-section">
+            <p>Building data centers involves sourcing materials like steel, aluminum, and copper—many of which are heavily impacted by U.S. tariffs. These tariffs significantly increase construction costs.</p>
+
+            <figure>
+                <!-- Placeholder for Sankey diagram -->
+                <img src="sankey_desktop.svg" alt="Material sourcing Sankey diagram (desktop)" class="desktop-visual">
+                <img src="sankey_mobile.svg" alt="Material sourcing Sankey diagram (mobile)" class="mobile-visual">
+                <figcaption>Sourcing materials for data center construction.</figcaption>
+            </figure>
+            
+            <p>For example, U.S. imports of steel face a 25% tariff under Section 232, while aluminum imports from Canada and Mexico are exempt if USMCA-compliant. Copper tariffs remain uncertain but could drive prices higher.</p>
+        </section>
+
+        <!-- Section 4 -->
+        <section class="scrolly-section">
+            <p>Major companies like Apple and Amazon have pledged billions toward expanding AI-focused data centers despite rising costs. Apple's $500 billion commitment includes advanced manufacturing facilities in Texas and Arizona.</p>
+
+            <!-- Placeholder for investment comparison table -->
+            <figure>
+                <!-- Add table or visual comparison here -->
+                <!-- Example SVG placeholder -->
+                <img src="investment_comparison_desktop.svg" alt="Investment comparison chart (desktop)" class="desktop-visual">
+                <img src="investment_comparison_mobile.svg" alt="Investment comparison chart (mobile)" class="mobile-visual">
+                <figcaption>Investment scales among major players.</figcaption>
+            </figure>
+            
+            <blockquote>“Instability benefits nobody,” says Prof. Susan Ariel Aaronson, highlighting the contradictions in U.S. policies impacting AI competitiveness.</blockquote>
+        </section>
+
+    </div>
+
+    <!-- Footer Section -->
+    <div class="footer">
+        <p>Inspired by visual storytelling techniques from The Washington Post and The Pudding.</p>
+    </div>
+</body>
+
+</html>
