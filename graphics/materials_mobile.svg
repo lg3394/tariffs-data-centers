@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_2" data-name="Layer 2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 312.97 422.62">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #ab63fa;
+      }
+
+      .cls-2 {
+        fill: #00cc96;
+      }
+
+      .cls-3 {
+        fill: #ef553b;
+      }
+
+      .cls-4 {
+        fill: #d3d3d3;
+        stroke: #000;
+        stroke-width: .5px;
+      }
+
+      .cls-5 {
+        fill: #fff;
+      }
+
+      .cls-6 {
+        fill: #19d3f3;
+      }
+
+      .cls-7 {
+        font-family: Arial-BoldMT, Arial;
+        font-size: 12.91px;
+        font-weight: 700;
+      }
+
+      .cls-7, .cls-8 {
+        isolation: isolate;
+      }
+
+      .cls-9 {
+        fill: #636efa;
+      }
+
+      .cls-8 {
+        font-family: ArialMT, Arial;
+        font-size: 6.83px;
+      }
+
+      .cls-10 {
+        fill: #ff6692;
+      }
+
+      .cls-11 {
+        fill: #ffa15a;
+      }
+
+      .cls-12 {
+        letter-spacing: -.11em;
+      }
+    </style>
+  </defs>
+  <g id="ai2html-settings">
+    <rect class="cls-5" width="312.97" height="422.62"/>
+    <g>
+      <g>
+        <path class="cls-9" d="M104.32,130.87c52.16,0,52.16,14.07,104.32,14.07v15.61c-52.16,0-52.16-14.07-104.32-14.07v-15.61Z"/>
+        <path class="cls-3" d="M104.32,181.05c52.16,0,52.16-20.51,104.32-20.51v12.49c-52.16,0-52.16,20.51-104.32,20.51v-12.49Z"/>
+        <path class="cls-2" d="M104.32,105.65c52.16,0,52.16,29.92,104.32,29.92v9.36c-52.16,0-52.16-29.92-104.32-29.92v-9.36Z"/>
+        <path class="cls-9" d="M104.32,146.48c52.16,0,52.16,42.4,104.32,42.4v18.73c-52.16,0-52.16-42.4-104.32-42.4v-18.73Z"/>
+        <path class="cls-1" d="M104.32,225c52.16,0,52.16-17.39,104.32-17.39v6.24c-52.16,0-52.16,17.39-104.32,17.39v-6.24Z"/>
+        <path class="cls-3" d="M104.32,193.54c52.16,0,52.16,36.16,104.32,36.16v15.61c-52.16,0-52.16-36.16-104.32-36.16v-15.61Z"/>
+        <path class="cls-11" d="M104.32,247.09c52.16,0,52.16-1.78,104.32-1.78v12.49c-52.16,0-52.16,1.78-104.32,1.78v-12.49Z"/>
+        <path class="cls-6" d="M104.32,275.42c52.16,0,52.16,7.4,104.32,7.4v24.97c-52.16,0-52.16-7.4-104.32-7.4v-24.97Z"/>
+        <path class="cls-10" d="M104.32,316.24c52.16,0,52.16-8.45,104.32-8.45v21.85c-52.16,0-52.16,8.45-104.32,8.45v-21.85Z"/>
+      </g>
+      <g>
+        <rect class="cls-4" x="83.46" y="130.87" width="20.86" height="34.34"/>
+        <rect class="cls-4" x="83.46" y="181.05" width="20.86" height="28.09"/>
+        <rect class="cls-4" x="83.46" y="105.65" width="20.86" height="9.36"/>
+        <rect class="cls-4" x="83.46" y="225" width="20.86" height="6.24"/>
+        <rect class="cls-4" x="83.46" y="247.09" width="20.86" height="12.49"/>
+        <rect class="cls-4" x="83.46" y="275.42" width="20.86" height="24.97"/>
+        <rect class="cls-4" x="83.46" y="316.24" width="20.86" height="21.85"/>
+        <rect class="cls-4" x="208.64" y="135.57" width="20.86" height="37.46"/>
+        <rect class="cls-4" x="208.64" y="188.88" width="20.86" height="24.97"/>
+        <rect class="cls-4" x="208.64" y="229.7" width="20.86" height="28.09"/>
+        <rect class="cls-4" x="208.64" y="282.82" width="20.86" height="46.82"/>
+      </g>
+    </g>
+    <text class="cls-7" transform="translate(52.82 64.11) scale(.9 1)"><tspan x="0" y="0">Where Do the Construction Materials for</tspan><tspan x="0" y="15.5">Data Centers in the U.S. Come From?</tspan></text>
+    <text class="cls-8" transform="translate(56.51 112.98) scale(1.2 1)"><tspan x="0" y="0">Brazil</tspan></text>
+    <text class="cls-8" transform="translate(52.48 151.16) scale(1.2 1)"><tspan x="0" y="0">Canada</tspan></text>
+    <text class="cls-8" transform="translate(53.69 196.97) scale(1.2 1)"><tspan x="0" y="0">Mexico</tspan></text>
+    <text class="cls-8" transform="translate(48.94 229.86) scale(1.2 1)"><tspan x="0" y="0">Australia</tspan></text>
+    <text class="cls-8" transform="translate(59.99 254.86) scale(1.2 1)"><tspan x="0" y="0">Chile</tspan></text>
+    <text class="cls-8" transform="translate(53.87 292.01) scale(1.2 1)"><tspan class="cls-12" x="0" y="0">T</tspan><tspan x="3.41" y="0">aiwan</tspan></text>
+    <text class="cls-8" transform="translate(57.09 325.01) scale(1.2 1)"><tspan x="0" y="0">South</tspan><tspan x="0" y="8.19">Korea</tspan></text>
+    <text class="cls-8" transform="translate(231.91 156.91) scale(1.2 1)"><tspan x="0" y="0">Steel</tspan></text>
+    <text class="cls-8" transform="translate(232.26 204.38) scale(1.2 1)"><tspan x="0" y="0">Aluminum</tspan></text>
+    <text class="cls-8" transform="translate(234.46 247.38) scale(1.2 1)"><tspan x="0" y="0">Copper</tspan></text>
+    <text class="cls-8" transform="translate(234.75 309.95) scale(1.2 1)"><tspan x="0" y="0">Semiconductors</tspan></text>
+  </g>
+</svg>
