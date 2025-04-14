@@ -8,36 +8,16 @@
         body {
             font-family: Arial, sans-serif;
             line-height: 1.6;
-            margin: 20px auto; /* Centered content with smaller margins */
-            max-width: 1200px; /* Limit content width for readability */
-            background-color: #ffffff; /* White background */
-        }
-
-        h1, h2 {
-            text-align: center;
-            color: #333;
-        }
-
-        h1 {
-            font-size: 2.5em;
-            margin-bottom: 10px;
-        }
-
-        h2 {
-            font-size: 1.8em;
-            margin-top: 20px;
-        }
-
-        p {
-            margin-bottom: 20px;
-            color: #555;
+            margin: 0;
+            padding: 0;
+            background-color: #ffffff;
         }
 
         .header {
             background-image: url('graphics/metaprinevilledatacenter_tomraftery_cc.jpg');
             background-size: cover;
             background-position: center;
-            height: 70vh; 
+            height: 70vh;
             display: flex;
             justify-content: center;
             align-items: center;
@@ -54,35 +34,49 @@
             font-size: 1.5em;
         }
 
-        .responsive-chart img {
-            max-width: 70%; /* Resize desktop visuals to 70% */
+        .content {
+            max-width: 800px;
+            margin: auto;
+            padding: 20px;
+        }
+
+        p {
+            margin-bottom: 20px;
+            color: #555;
+        }
+
+        figure {
+            text-align: center;
+            margin-bottom: 20px;
+        }
+
+        figure img {
+            max-width: 70%;
             height: auto;
-            margin-left: auto; /* Center visuals */
-            margin-right: auto; /* Center visuals */
         }
 
-        .desktop-only {
-            display: block; 
-        }
-
-        .mobile-only {
-            display: none; 
-        }
-        
-        @media (max-width: 768px) {
-            body {
-                margin-left: 15px; /* Increased margins for mobile */
-                margin-right: 15px; /* Increased margins for mobile */
-            }
-            
-            .desktop-only { display: none; }
-            .mobile-only { display: block; }
+        blockquote {
+            font-style: italic;
+            color: #333;
+            margin-left: 20px;
         }
 
         footer {
             text-align:center;
-            color:#888; /* Grey font for footer */
+            color:#888; 
             margin-top:40px; 
+        }
+
+        @media (max-width: 768px) {
+            body {
+                padding-left: 15px; 
+                padding-right: 15px; 
+            }
+            
+            figure img {
+                max-width: 100%;
+                height: auto;
+            }
         }
     </style>
 </head>
@@ -97,62 +91,53 @@
     </div>
 
     <!-- Article Content -->
-    <section>
-        <p>Last week, President Donald Trump announced sweeping tariffs on critical construction materials, including steel, aluminum, and copper, sending shockwaves through the tech industry. These measures, aimed at boosting domestic manufacturing, could have far-reaching consequences for the expansion of data centers—facilities that are essential for artificial intelligence (AI) infrastructure. Industry leaders warn that these policies may undermine U.S. competitiveness in AI innovation by driving up costs and creating uncertainty.</p>
+    <div class="content">
+        <p>Last week, President Donald Trump announced sweeping tariffs on critical construction materials, including steel, aluminum, and copper. These measures aim to boost domestic manufacturing but could have far-reaching consequences for the expansion of data centers—facilities essential for artificial intelligence (AI) infrastructure. Industry leaders warn that these policies may undermine U.S. competitiveness in AI innovation by driving up costs and creating uncertainty.</p>
 
-        <p>The United States dominates the global data center market, operating more facilities than all other countries combined—ten times more than any single nation. These centers are the backbone of America’s AI ambitions, providing the computational power needed for generative AI models like ChatGPT and Bard. However, their expansion is now threatened by tariffs that increase costs for key materials.</p>
+        <p>The United States dominates the global data center market, operating more facilities than all other countries combined—ten times more than any single nation. However, their expansion is now threatened by tariffs that increase costs for key materials like steel frameworks, aluminum cooling systems, and copper wiring.</p>
 
         <figure>
-            <img src="graphics/datacenters_desktop.svg" class="responsive-chart desktop-only" alt="Global data center distribution (desktop)">
-            <img src="graphics/datacenters_mobile.svg" class="responsive-chart mobile-only" alt="Global data center distribution (mobile)">
+            <img src="graphics/datacenters_desktop.svg" alt="Global data center distribution (desktop)">
         </figure>
 
         <p>Data centers already account for 2% of U.S. electricity consumption—a figure projected to quadruple by 2030 as AI adoption accelerates. Meeting this demand will require massive investments in infrastructure and power generation. Yet rising material costs due to tariffs could delay these critical expansions.</p>
 
         <figure>
-            <img src="graphics/energydemand_desktop.svg" class="responsive-chart desktop-only" alt="Energy demand per country (desktop)">
-            <img src="graphics/energydemand_mobile.svg" class="responsive-chart mobile-only" alt="Energy demand per country (mobile)">
+            <img src="graphics/energydemand_desktop.svg" alt="Energy demand per country (desktop)">
         </figure>
 
-        <p>The construction of data centers relies heavily on imported materials like steel, aluminum, and copper:</p>
-        
+        <p>The construction of data centers relies heavily on imported materials like steel, aluminum, and copper. Trump’s tariffs impose a 25% levy on steel imports under Section 232 and similar rates on aluminum and copper. However, exemptions exist for some materials depending on their country of origin or compliance with trade agreements like USMCA.</p>
+
+        <figure>
+            <img src="graphics/materials_desktop.svg" alt="Material sourcing diagram (desktop)">
+        </figure>
+
+        <blockquote>"Instability benefits nobody," says Prof. Susan Ariel Aaronson of George Washington University. "The policy contradictions are killing America’s AI competitiveness by driving up costs and creating uncertainty."</blockquote>
+
+        <p>Despite these challenges, major tech companies had announced significant investments in AI-focused data centers before the tariffs were imposed:</p>
+
         <ul>
-          <li><strong>Steel:</strong> Subject to a 25% tariff under Section 232 since March 12. Imports from Canada and Mexico are exempt if USMCA-compliant.</li>
-          <li><strong>Aluminum:</strong> Tariff increased from 10% to 25%, with exemptions for USMCA-compliant imports extended indefinitely on April 2.</li>
-          <li><strong>Copper:</strong> Under investigation for potential tariffs capped at a possible rate of 25%. Prices have already surged in anticipation.</li>
-      </ul>
-
-      <figure>
-          <img src="graphics/materials_desktop.svg" class="responsive-chart desktop-only" alt="Material sourcing diagram (desktop)">
-          <img src="graphics/materials_mobile.svg" class="responsive-chart mobile-only" alt="Material sourcing diagram (mobile)">
-      </figure>
-
-      <blockquote>"Instability benefits nobody," says Prof. Susan Ariel Aaronson of George Washington University.</blockquote>
-
-      <p>Despite rising costs, major tech companies continue to invest heavily in AI-focused data centers:</p>
-
-      <ul>
           <li><strong>Apple:</strong> Committed $500 billion over four years to expand data center capacity and build an AI server manufacturing facility in Texas.</li>
-          <li><strong>Amazon:</strong> Announced plans to invest over $100 billion in new data centers in 2025—before the tariffs were imposed.</li>
-          <li><strong>Microsoft:</strong> Allocated $80 billion for AI-enabled data centers this fiscal year—pre-tariff projections.</li>
-          <li><strong>Google/Alphabet:</strong> Projected $75 billion in capital expenditures for AI infrastructure in 2025—pre-tariff estimates.</li>
+          <li><strong>Amazon:</strong> Planned to invest over $100 billion in new data centers in 2025.</li>
+          <li><strong>Microsoft:</strong> Allocated $80 billion for AI-enabled data centers this fiscal year.</li>
+          <li><strong>Google/Alphabet:</strong> Projected $75 billion in capital expenditures for AI infrastructure in 2025.</li>
       </ul>
 
       <figure>
-          <img src="graphics/bigtech_desktop.svg" class="responsive-chart desktop-only" alt="Investment comparison chart (desktop)">
-          <img src="graphics/bigtech_mobile.svg" class="responsive-chart mobile-only" alt="Investment comparison chart (mobile)">
+          <img src="graphics/bigtech_desktop.svg" alt="Investment comparison chart (desktop)">
       </figure>
 
-      <p>The stakes are high—not just for Big Tech but for America’s position as a leader in innovation. As Prof. Aaronson aptly puts it, “Instability benefits nobody.” Whether the U.S. can navigate these challenges will determine its ability to maintain its edge in the global AI race.</p>
-    </section>
+      <p>The stakes are high—not just for Big Tech but for America’s position as a leader in innovation. Whether the U.S. can navigate these challenges will determine its ability to maintain its edge in the global AI race.</p>
+    </div>
 
     <!-- Footer Section -->
     <footer style="text-align:center;">
-       Datasets from:
-       HuggingFace AI Energy Score.<br>GitHub Repo:
-       Tariffs and Data Centers.<br>Date Published:
+       GitHub Repo:
+       <a href="https://github.com/lg3394/tariffs-data-centers/tree/main">Tariffs and Data Centers</a><br>
+       Date Published:
        Monday, April 14, 2025
     </footer>
 
 </body>
 </html>
+
