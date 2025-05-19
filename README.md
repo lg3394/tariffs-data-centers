@@ -1,7 +1,7 @@
-# Trump's Tariffs and Data Center Impact
+# 2025 Tariffs and Data Center Impact
 
 **Project Overview**
-This project examines how President Trump's tariffs on construction materials could impact the growing U.S. data center industry. The analysis focuses on the potential consequences of these policies for critical AI infrastructure development, visualizing data on global data center distribution, projected energy demands, material sourcing dynamics, and big tech investment plans.
+This project examines how tariffs on construction materials could impact the growing U.S. data center industry. The analysis focuses on the potential consequences of these policies for critical AI infrastructure development, visualizing data on global data center distribution, projected energy demands, material sourcing dynamics, and big tech investment plans.
 
 **Tools & Packages Used**
 
